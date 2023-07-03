@@ -1,5 +1,5 @@
 # 📂 SQL: Employee Tracker 📂
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: Apache](https://img.shields.io/badge/License-Apache-blue.svg)
 
 ## 📚 Description
 The Employee Tracker is a Node.js command-line application for managing a company's employee database. You can view departments, roles, and employees, as well as add departments, roles, and employees. You can also update an employee's role. The application uses Inquirer for the interactive command line interface and MySQL to manage the database.
@@ -8,7 +8,6 @@ The Employee Tracker is a Node.js command-line application for managing a compan
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## 💽 Installation
@@ -28,7 +27,7 @@ Once the database is set up, seed it with some initial data (If needed) by runni
 npm run seed
 ```
 ## 🎯 Usage
-[Walkthrough Video 🎥](your video link here)
+[Walkthrough Video 🎥](https://drive.google.com/file/d/14UH32ch8rzzP7kI2q4Fn2dqJuzzjjV2E/view?usp=sharing)
 
 Once you've successfully installed all the required dependencies, the application is ready for use. Invoke it by running the following command:
 
